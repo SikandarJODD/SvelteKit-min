@@ -4,16 +4,16 @@
   </h1>
   <div class="flex flex-col text-center">
     <img
-      src="https://media.licdn.com/dms/image/C4D03AQGP1dNhTLkZrA/profile-displayphoto-shrink_400_400/0/1662137583464?e=1684972800&v=beta&t=T1u2k6poM941aT_YRKyXV6Km2Z3rwMlD_mppIxgUlM4"
-      alt="Sikandar.S.Bhide"
-      class="rounded-full h-52 w-52 mt-10 ring-2 ring-blue-600 shadow-img "
+      src="https://i.pinimg.com/564x/e1/27/ce/e127ce994da98d21965a5a1f357ebe78.jpg"
+      alt="Hello Kitty"
+      class="rounded-full h-52 w-52 mt-10 ring-2 ring-blue-600 shadow-img object-cover"
     />
     <a
       href="https://www.linkedin.com/in/sikandar-bhide-911988211/"
       class="mt-2 font-medium text-sky-600 font-mono"
       target="_blank"
     >
-      <h3 class="text-2xl">Sikandar.S.Bhide</h3>
+      <h3 class="text-2xl">Pofuu</h3>
     </a>
   </div>
 </section>
