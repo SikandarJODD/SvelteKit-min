@@ -9,7 +9,7 @@
       class="rounded-full h-52 w-52 mt-10 ring-2 ring-blue-600 shadow-img object-cover"
     />
     <a
-      href="https://www.linkedin.com/in/sikandar-bhide-911988211/"
+      href="https://www.linkedin.com/in/sikandar-bhide/"
       class="mt-2 font-medium text-sky-600 font-mono"
       target="_blank"
     >
